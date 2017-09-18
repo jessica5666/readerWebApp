@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 835637,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 26,
+		"title": "无敌小村医",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 9613336,
+		"latest_id": 186,
+		"score": 7.53,
+		"allow_free_read": 1,
+		"rights_id": 20004,
+		"channel": [2],
+		"updated": 1426300107,
+		"finish": true,
+		"tags": ["都市", "都市生活"],
+		"price": 3,
+		"chapter_count": 187,
+		"authors": "决绝",
+		"categories": [{
+			"category_id": 110000,
+			"label": "古代言情"
+		}, {
+			"category_id": 110100,
+			"label": "架空历史"
+		}, {
+			"category_id": 17000000,
+			"label": "古代言情"
+		}, {
+			"category_id": 17000200,
+			"label": "古典架空"
+		}],
+		"rights": "晋江文学",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01C1PdeHt03/uMm1tfqwCkDH6M.jpg!s",
+		"summary": "这是一个懂武功、精医术的小村医游历花丛爽到爆的故事。村花、村嫂、村姨还有城里来的美女村支书、富姐、贵妇------只要你们想得到的；他就能推倒。呵呵，可别想歪了。他是用家传‘太极推拿手’帮她们疗伤、治病！非那个推倒。带你感受岭南农村的别样风情；看主角如何从一名小村医一步一步飞黄腾达！VIP作品贴身女主播！谢谢大家订阅支持！...",
+		"fiction_id": 33537,
+		"outer_id": "52d8eb410ea4973df0bf1c85",
+		"latest": "番外"
+	}
+}
